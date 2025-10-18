@@ -1,5 +1,5 @@
 # README
-[project link](https://github.com/Shrd1105/Basic_CV/tree/main)
+[project link](https://roadmap.sh/projects/single-page-cv)
 # The Result
 <img width="891" height="445" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/2b1048bd-bda9-4002-a75d-204013ae7c45" />
 
