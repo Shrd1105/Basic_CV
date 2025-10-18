@@ -1,7 +1,7 @@
 # README
-https://roadmap.sh/projects/single-page-cv
+[project link](https://github.com/Shrd1105/Basic_CV/tree/main)
 # The Result
-<img width="1920" height="1080" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/5fb1246a-1c02-4d23-952c-99593eb3983b" />
+<img width="891" height="445" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/2b1048bd-bda9-4002-a75d-204013ae7c45" />
 
 # Other Resources to complete this document:
 I use these resources to create such a cv projects:
